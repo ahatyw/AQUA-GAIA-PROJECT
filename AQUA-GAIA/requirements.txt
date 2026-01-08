@@ -1,0 +1,4 @@
+dash==2.18.2
+plotly==6.5.0
+numpy
+pandas
